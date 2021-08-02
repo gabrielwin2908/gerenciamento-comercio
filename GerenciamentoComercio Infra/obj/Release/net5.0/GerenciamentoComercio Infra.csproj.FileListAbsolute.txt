@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\bin\Release\net5.0\GerenciamentoComercio Infra.deps.json
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\bin\Release\net5.0\GerenciamentoComercio Infra.runtimeconfig.json
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\bin\Release\net5.0\GerenciamentoComercio Infra.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\bin\Release\net5.0\GerenciamentoComercio Infra.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\bin\Release\net5.0\ref\GerenciamentoComercio Infra.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\bin\Release\net5.0\GerenciamentoComercio Infra.pdb
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\obj\Release\net5.0\GerenciamentoComercio Infra.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\obj\Release\net5.0\GerenciamentoComercio Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\obj\Release\net5.0\GerenciamentoComercio Infra.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\obj\Release\net5.0\GerenciamentoComercio Infra.AssemblyInfo.cs
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\obj\Release\net5.0\GerenciamentoComercio Infra.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\obj\Release\net5.0\GerenciamentoComercio Infra.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\obj\Release\net5.0\ref\GerenciamentoComercio Infra.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\obj\Release\net5.0\GerenciamentoComercio Infra.pdb
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio Infra\obj\Release\net5.0\GerenciamentoComercio Infra.genruntimeconfig.cache

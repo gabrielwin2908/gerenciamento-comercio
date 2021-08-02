@@ -1,0 +1,56 @@
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.AssemblyInfo.cs
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\appsettings.Development.json
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\appsettings.json
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\GerenciamentoComercio API.exe
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\GerenciamentoComercio API.deps.json
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\GerenciamentoComercio API.runtimeconfig.json
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\GerenciamentoComercio API.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\GerenciamentoComercio API.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\ref\GerenciamentoComercio API.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\GerenciamentoComercio API.pdb
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.Data.SqlClient.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.Identity.Client.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.OpenApi.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Newtonsoft.Json.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\System.Runtime.Caching.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\GerenciamentoComercio Domain.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\GerenciamentoComercio Infra.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\win-x86\GerenciamentoComercio Infra.pdb
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\staticwebassets\GerenciamentoComercio API.StaticWebAssets.Manifest.cache
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\staticwebassets\GerenciamentoComercio API.StaticWebAssets.xml
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\scopedcss\bundle\GerenciamentoComercio API.styles.css
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.RazorTargetAssemblyInfo.cache
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.csproj.CopyComplete
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\ref\GerenciamentoComercio API.dll
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.pdb
+C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\obj\Release\net5.0\win-x86\GerenciamentoComercio API.genruntimeconfig.cache

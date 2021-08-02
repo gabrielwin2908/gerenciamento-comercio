@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\gabri\source\repos\GerenciamentoComercio\GerenciamentoComercio API\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-07-30T00:52:32.8989006Z;True|2021-07-29T21:26:31.9262069-03:00;True|2021-07-29T21:19:58.6427022-03:00;True|2021-07-29T21:14:26.4989365-03:00;True|2021-07-29T21:08:18.6869153-03:00;True|2021-07-29T20:52:32.1761726-03:00;False|2021-07-29T20:51:28.7010655-03:00;False|2021-07-29T20:46:20.0500860-03:00;False|2021-07-29T20:43:00.1899791-03:00;False|2021-07-29T20:42:00.4899869-03:00;False|2021-07-29T20:40:41.5345123-03:00;False|2021-07-29T20:38:09.0989848-03:00;False|2021-07-29T20:36:43.2838790-03:00;False|2021-07-29T20:35:43.8353865-03:00;True|2021-07-29T20:34:11.7913931-03:00;False|2021-07-29T20:33:35.2460564-03:00;True|2021-07-29T20:32:51.0605087-03:00;</History>
+  </PropertyGroup>
+</Project>
